@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐍 Python Learning Journey
 
 > A structured collection of Python practice files — from basics to real-world problem solving.
@@ -155,3 +156,7 @@ Or run directly in **VS Code** by pressing `Ctrl + F5`
 ---
 
 ⭐ *If you find this helpful, give it a star!*
+=======
+# Python-Learning
+🐍 A complete Python learning journey by Hajgude Prasad — covering  Practice Sets and more. New topics added regularly as I progress towards Data Science! 🚀
+>>>>>>> 5df25e1d1561943fc0bd97cff0e279c61ec7b623

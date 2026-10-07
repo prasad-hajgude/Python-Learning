@@ -1,0 +1,10 @@
+name="prasad"
+age=25
+gender="male"
+is_student=True
+salary=35000.00
+print(type(name))
+print(type(salary))
+print(type(gender))
+print(type(is_student))
+print(type(age))
